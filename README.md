@@ -39,6 +39,6 @@ The console objects has this methods in order to make the user input / output.
 - **```write(text)```**: Send a text to the console.
 - **```writeln(text)```**: Send a text to the console and do a new line.
 - **```readString(text)```**: Ask for a string input and wait for the user response. This method returns the introduced text.
-- **```writeln(text)```**: Ask for a number input and wait for the user response. This method converts the input in its integer value and returns the introduced value as primitive type number.
+- **```readNumber(text)```**: Ask for a number input and wait for the user response. This method converts the input in its integer value and returns the introduced value as primitive type number.
 
 
